@@ -1,5 +1,5 @@
-# 💫 About Me:
-📍 Based in Florence<br>🌱 I’m always learning<br>⚡ I'm a developer and I like wasting time on nice but useless things
+# About Me:
+📍 Based in Florence<br>🌱 I’m always learning<br>💾 Half things are personal backups<br>⚡ I'm a developer and I like wasting time on nice but useless things
 
 
 ## 🌐 Socials:
